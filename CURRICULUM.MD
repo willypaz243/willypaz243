@@ -124,15 +124,17 @@
 - Collaborated with the team following the Agile methodology like Scrum.
 
 * **Most Recent Project:**
+
   - [Springboard](https://usespringboard.com/) - It is a staffing marketplace that bridges the gap between employers and employees across manufacturing, day labor, hospitality, food service, and more.
+
+<br/>
+<br/>
 
 ### **Python Developer** | **Independent** | 2020 - 2021
 
 - Development of API's for classification of inappropriate content in text, images and videos with Python, Flask, and AWS Rekognition.
 - Chatbot of automatic responses with Python, Flask, Rasa
 - Face emotion recognition for video calls with Python, Django, OpenCV, and Tensorflow.
-
-<br/>
 
 ## **Technical Skills**:
 

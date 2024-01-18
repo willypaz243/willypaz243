@@ -88,7 +88,7 @@
             width="20"
             height="20"
             />
-            <a href="https://github.com/Samuelpaz95">@Samuelpaz95</a>
+            <a href="https://github.com/willypaz243">@willypaz243</a>
         </li>
     </ul>
   </div>
@@ -109,7 +109,7 @@
   </div>
 </div>
 
-## 💼 **Experience**:
+## **Experience**:
 
 ### **Backend Developer** | [**Canned Head**](https://www.linkedin.com/company/cannedhead/) | Nov. 2021 - Nov. 2023
 
@@ -153,6 +153,7 @@
     <ul>
       <li>Django</li>
       <li>Flask</li>
+      <li>FastAPI</li>
       <li>ExpressJS</li>
       <li>NestJS</li>
       <li>ReactJS</li>

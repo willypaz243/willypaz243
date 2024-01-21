@@ -95,7 +95,7 @@
   <div id="description" style="flex: 60%">
     <h2>Description:</h2>
     <p>
-      Hey there, I'm Willy – a Backend Developer with 3 years of hands-on experience. I'm deeply passionate about coding, artificial intelligence, and the intricate world of Linux operating systems. When it comes to projects, I love using Linux to create and manage the technological magic I am involved in.
+      Hey there, I'm Willy, I'm Backend Developer with a bit of knowledge in Front-end. I'm deeply passionate about coding, artificial intelligence, and the intricate world of Linux operating systems. When it comes to projects, I love using Linux to create and manage the technological magic I am involved in.
     </p>
     <h2>Aptitudes:</h2>
     <ul>

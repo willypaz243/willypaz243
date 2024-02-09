@@ -4,13 +4,13 @@
        width="30px"> Hello, I'm Willy, a 🚀 Back-End Developer with a bit of knowledge in Front-End development. My interest is to enhance my skills to create large-scale and high-performance computing projects. 💻✨</p>
 
 <div align="center" class="social-icons" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
-  <a href="https://www.linkedin.com/in/willysamuelpaz/">
+  <a style="text-decoration: none" href="https://www.linkedin.com/in/willysamuelpaz/">
     <img align="center" 
        alt="Linkdein" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
-  <a href="mailto:willypaz243@gmail.com">
+  <a style="text-decoration: none" href="mailto:willypaz243@gmail.com">
     <img align="center" 
        alt="Gmail" 
        width="22px" 

@@ -1,25 +1,9 @@
-<style>
-.social-icons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-}
-.github-stats {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-  margin: 1rem;
-}
-</style>
-
 <h1 align="center">Willy Samuel Paz Colque</h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px"> Hello, I'm Willy, a 🚀 Back-End Developer with a bit of knowledge in Front-End development. My interest is to enhance my skills to create large-scale and high-performance computing projects. 💻✨</p>
 
-<div align="center" class="social-icons">
+<div align="center" class="social-icons" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
   <a href="https://www.linkedin.com/in/willysamuelpaz/">
     <img align="center" 
        alt="Linkdein" 
@@ -36,10 +20,10 @@
 
 <h2 align="center">GitHub Statistics:</h2>
 
-<div class="github-stats" align="center">
+<div class="github-stats" align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
   <a href="https://github.com/willypaz243">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=willypaz243&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+        src="https://github-readme-stats.vercel.app/api?username=willypaz243&show_icons=true&hide=contribs&cache_seconds=86400&theme=nord" />
   </a>
   <a href="https://github.com/willypaz243?tab=repositories">
     <img align="center" 

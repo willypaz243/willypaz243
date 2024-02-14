@@ -1,24 +1,9 @@
-<h1 align="center">Willy Samuel Paz Colque</h1>
+# Willy Samuel Paz Colque
 
-<p align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+<p><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px"> Hello, I'm Willy, a 🚀 Back-End Developer with a bit of knowledge in Front-End development. My interest is to enhance my skills to create large-scale and high-performance computing projects. 💻✨</p>
 
-<div align="center" class="social-icons" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
-  <a style="text-decoration: none" href="https://www.linkedin.com/in/willysamuelpaz/">
-    <img align="center" 
-       alt="Linkdein" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-  </a>
-  <a style="text-decoration: none" href="mailto:willypaz243@gmail.com">
-    <img align="center" 
-       alt="Gmail" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
-  </a>
-</div>
-
-<h2 align="center">GitHub Statistics:</h2>
+# GitHub Statistics:
 
 <div class="github-stats" align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
   <a href="https://github.com/willypaz243">
@@ -32,7 +17,7 @@
   </a>
 </div>
 
-<h2 align="center">Technical Skills</h2>
+<h2>Technical Skills</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css&perline=12" alt="Python, JavaScript, TypeScript, Java, HTML, CSS" title="Python, JavaScript, TypeScript, Java, HTML, CSS" />
@@ -50,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode,docker,aws&perline=12" alt="Linux, Git, Postman, VSCode, Docker, AWS" title="Linux, Git, Postman, VSCode, Docker, AWS" />
 </p>
 
-<h2 align="center">Skills to learn</h2>
+<h2>Skills to learn</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,sklearn,tensorflow,r&perline=12" alt="Rust, Go, C, C++, Sklearn, TensorFlow, R" title="Rust, Go, C, C++, Sklearn, TensorFlow, R" />
 </p>

@@ -12,7 +12,7 @@
         font-size: 16px;
     }
     #profile h2 {
-        font-size: 14px;
+        font-size: 15px;
         margin-top: 0px;
     }
     #profile ul {
@@ -27,11 +27,12 @@
         flex-direction: column;
     }
     #description h2 {
-        font-size: 14px;
+        font-size: 15px;
+        margin-bottom: 0.25em;
     }
     #description h3 {
         margin-top: 0px;
-        font-size: 14px;
+        font-size: 13px;
         margin-bottom: 2px;
     }
     #description p {
@@ -45,7 +46,7 @@
     }
     #description li {
         font-size: 12px;
-        margin-bottom: 1em;
+        margin-bottom: 0em;
     }
     #technical-skills {
         display: flex;
@@ -94,12 +95,12 @@
 <div id="header" style="display: flex">
   <div id="profile" style="flex: 25%">
     <img
-      src="https://media.licdn.com/dms/image/C4E03AQG-acHqUpOIyQ/profile-displayphoto-shrink_800_800/0/1622423412051?e=1706745600&amp;v=beta&amp;t=_BFHIFjIUjxwDvUQVoDcW-6vZ27wCA0XAdi1rS5GOGA"
+      src="https://media.licdn.com/dms/image/C4E03AQG-acHqUpOIyQ/profile-displayphoto-shrink_800_800/0/1622423412051?e=1713398400&v=beta&t=RT-XfsSVNSJdzmqlnJyZZ1ruXbabjSYbXnjzC-FL6kA"
       style="border-radius: 50%"
       width="250"
     />
-    <h1 style='text-wrap: balance'>Willy Samuel Paz Colque</h1>
-    <h2>Backend Developer</h2>
+    <h1 style='text-wrap: balance'><b>Willy Samuel Paz Colque</b></h1>
+    <h2><b>Backend Developer</b></h2>
     <ul style="margin-buttom: 0px">
       <li>
         <img
@@ -142,11 +143,11 @@
     </ul>
   </div>
   <div id="description" style="flex: 60%">
-    <h2><strong>About me</strong></h2>
+    <h2><b>About me</b></h2>
     <p>
-      Hey there, I'm Willy, I'm Software and Web Developer. I'm deeply passionate about coding, artificial intelligence, and the intricate world of Linux operating systems. When it comes to projects, I love using Linux to create and manage the technological magic I am involved in.
+      Hello, my name is Willy and I work as a Back-End Developer. I also have some skills in Front-End development and a lot of experience in programming. I am passionate about learning new technologies and developing large-scale and high-performance computing projects.
     </p>
-    <h2><strong>Experience</strong></h2>
+    <h2><b>Experience</b></h2>
     <ul>
         <li>
             <h3>
@@ -155,34 +156,38 @@
             </h3>
             <p>
     Fullstack web development with React, React Native, ExpressJS, NestJS, NodeJS, JS, TypeScript, AWS S3, and AWS Lambda in various web applications primarily focused on administration.
-            </p>
-            <h3 style="margin-bottom: 0px"><strong>Job references</strong></h3>
             <ul>
-                <li style="margin-bottom: 0px">
-                    <strong>Sergio Rodriguez</strong><br>
-                    Technical Lead at CannedHead<br>
-                    LinkedIn: <a href="https://www.linkedin.com/in/sergio-rodriguez-041389/">@sergio-rodriguez-041389</a>
+                <li>
+                    I developed Backend solutions from scratch using Nodejs, ExpressJS and other technologies
                 </li>
-                <li style="margin-bottom: 0px">
-                    <strong>Juan David Flores</strong><br>
-                    Co-founder of CannedHead<br>
-                    LinkedIn: <a href="https://www.linkedin.com/in/juan-david-florez/">@juan-david-florez</a>
+                <li>
+                    I implemented unit testing to ensure code quality and performance
+                </li>
+                <li>
+                    I improved database queries to reduce API latency and resource consumption in the cloud
+                </li>
+                <li>
+                    I created scripts for AWS Lambda to manage Jira data and measure the productivity of development teams at Cannedhead
                 </li>
             </ul>
+            </p>
         </li>
         <li>
             <h3>
                 <strong>Python Developer</strong><br/>Freelance | September 2020 - October 2021
             </h3>
             <p>
-      API and bot development using Python, Flask, Rasa, Django, OpenCV, AWS S3, AWS Rekognition, and Tensorflow for various purposes, including content moderation, customer support chatbots, and emotion detection in videos.
+      API and chat bot development using Python, Flask, Rasa, Django, OpenCV, AWS S3, AWS Rekognition, and Tensorflow for various purposes, including content moderation, customer support chatbots, and emotion detection in videos.
             </p>
-            <h3 style="margin-bottom: 0px"><strong>Job references</strong></h3>
             <ul>
-                <li style="margin-bottom: 0px">
-                    <strong>Hugo Soliz</strong><br>
-                    CEO of Soy Digital<br>
-                    LinkedIn: <a href="https://www.linkedin.com/in/hugosolizvedia/">@hugosolizvedia</a>
+                <li>
+                    I developed a microservice API with Flask and AWS Rekognition that filters and moderates the media content posted on the Agrinapsis social network.
+                </li>
+                <li>
+                    I designed and trained a deep learning model with python and tensorflow that recognizes facial expressions and deployed it as an API with Flask and Django for the somos.ai platform.
+                </li>
+                <li>
+                    I built chat bots with python and rasa that provide customer service and support for various domains and scenarios.
                 </li>
             </ul>
         </li>
@@ -192,59 +197,58 @@
 <div class="skills">
     <h2><strong>Technical Skills</strong></h2>
         <div id="technical-skills" style="display: flex">
-        <div class="skill" >
-            <h3><strong>Programming Languages</strong></h3>
-            <ul>
-            <li>Python</li>
-            <li>JavaScript</li>
-            <li>TypeScript</li>
-            <li>PHP</li>
-            </ul>
-        </div>
-        <div class='skill'>
-            <h3><strong>Frameworks</strong></h3>
-            <div style="display: flex">
-            <ul>
-            <li>Django</li>
-            <li>Flask</li>
-            <li>FastAPI</li>
-            <li>ExpressJS</li>
-            </ul>
-            <ul>
-            <li>NestJS</li>
-            <li>ReactJS</li>
-            <li>React Native</li>
-            </ul>
+            <div class="skill" >
+                <h3><strong>Programming Languages</strong></h3>
+                <ul>
+                <li>Python</li>
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>PHP</li>
+                </ul>
+            </div>
+            <div class='skill'>
+                <h3><strong>Frameworks</strong></h3>
+                <div style="display: flex">
+                    <ul>
+                    <li>Django</li>
+                    <li>Flask</li>
+                    <li>FastAPI</li>
+                    <li>ExpressJS</li>
+                    </ul>
+                    <ul>
+                    <li>NestJS</li>
+                    <li>ReactJS</li>
+                    <li>React Native</li>
+                    </ul>
+                </div>
+            </div>
+            <div class='skill'>
+                <h3><strong>Databases</strong></h3>
+                <ul>
+                <li>MySQL</li>
+                <li>PostgreSQL</li>
+                <li>MSSQL</li>
+                <li>MongoDB</li>
+                </ul>
+            </div>
+            <div class='skill'>
+                <h3><strong>AWS API's:</strong></h3>
+                <ul>
+                <li>S3</li>
+                <li>Lambda</li>
+                <li>Cognito</li>
+                <li>Rekognition</li>
+                </ul>
+            </div>
+            <div class='skill'>
+                <h3><strong>Tools</strong></h3>
+                <ul>
+                <li>GNU/Linux</li>
+                <li>Git</li>
+                <li>Postman</li>
+                <li>Docker</li>
+                </ul>
             </div>
         </div>
-        <div class='skill'>
-            <h3><strong>Databases</strong></h3>
-            <ul>
-            <li>MySQL</li>
-            <li>PostgreSQL</li>
-            <li>MSSQL</li>
-            <li>MongoDB</li>
-            </ul>
-        </div>
-        <div class='skill'>
-            <h3><strong>AWS API's:</strong></h3>
-            <ul>
-            <li>S3</li>
-            <li>Lambda</li>
-            <li>Cognito</li>
-            <li>Rekognition</li>
-            </ul>
-        </div>
-        <div class='skill'>
-            <h3><strong>Tools</strong></h3>
-            <ul>
-            <li>GNU/Linux</li>
-            <li>Git</li>
-            <li>Postman</li>
-            <li>VSCode</li>
-            <li>Docker/li>
-            </ul>
-        </div>
-    </div>
 </div>
 </div>

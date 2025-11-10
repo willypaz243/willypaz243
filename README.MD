@@ -29,14 +29,38 @@ Got an idea you’d like to bring to life? I’m always open to collaborating on
 ---
 
 ### 🧰 Technical Skills
-
-|||
-| :--- | ---: |
-| 🤖 AI & ML<br/>![AI & ML](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn) | 💻 Languages<br/>![Languages](https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css) |
-| 🧩 Backend & Frameworks<br/>![Backend & Frameworks](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react) | 🗄️ Databases & Tools<br/>![Databases & Tools](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gitlab,github,terraform) |
-| 🎨 Frontend<br/>![Frontend](https://skillicons.dev/icons?i=react,bootstrap) | 🧰 Tools & Platforms<br/>![Tools & Platforms](https://skillicons.dev/icons?i=linux,docker,kubernetes,gitlab,github,terraform,aws) |
-
----
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <h3>🤖 AI & ML</h3>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn" alt="AI & ML" />
+    </td>
+    <td align="center" valign="middle">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <h3>🧩 Backend & Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react" alt="Backend & Frameworks" />
+    </td>
+    <td align="center" valign="middle">
+      <h3>🗄️ Databases & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gitlab,github,terraform" alt="Databases & Tools" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend" />
+    </td>
+    <td align="center" valign="middle">
+      <h3>🧰 Tools & Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gitlab,github,terraform,aws" alt="Tools & Platforms" />
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Connect with Me
 

@@ -5,9 +5,8 @@
       🚀 Passionate Developer | 🧠 AI Engineer | 🚀 Full-Stack Developer
     </p>
   </div>
-  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center; position: relative;">
+  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center;">
     🎯 About Me
-    <div style="display: block; width: 100px; height: 3px; background: #81a1c0; margin: 10px auto; border-radius: 2px;"></div>
   </div>
   <div style="text-align: center; padding: 20px; font-size: 1.1rem; line-height: 1.8;">
     <p>
@@ -43,19 +42,18 @@
         projects. Let me know how I can help!
     </p>
   </div>
-  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center; position: relative;">
+  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center;">
     📊 GitHub Statistics
-    <div style="display: block; width: 100px; height: 3px; background: #81a1c0; margin: 10px auto; border-radius: 2px;"></div>
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <div style="background: #2e3440; border-radius: 10px; padding: 20px; text-align: center; min-width: 250px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;">
+    <div style="background: #2e3440; border-radius: 10px; padding: 20px; text-align: center; min-width: 250px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
       <h3 style="color: #79ff97; margin-bottom: 10px;">Top Languages</h3>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=willypaz243&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440&cache_seconds=86400"
         alt="Top Languages"
       />
     </div>
-    <div style="background: #2e3440; border-radius: 10px; padding: 20px; text-align: center; min-width: 250px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;">
+    <div style="background: #2e3440; border-radius: 10px; padding: 20px; text-align: center; min-width: 250px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
       <h3 style="color: #79ff97; margin-bottom: 10px;">GitHub Stats</h3>
       <img
         src="https://github-readme-stats.vercel.app/api?username=willypaz243&show_icons=true&hide=contribs&cache_seconds=86400&theme=nord"
@@ -63,154 +61,152 @@
       />
     </div>
   </div>
-  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center; position: relative;">
+  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center;">
     🚀 Technical Skills
-    <div style="display: block; width: 100px; height: 3px; background: #81a1c0; margin: 10px auto; border-radius: 2px;"></div>
   </div>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;">
+    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
       <h3 style="color: #79ff97; margin-bottom: 15px; text-align: center; font-size: 1.4rem;">🧠 Artificial Intelligence & Machine Learning</h3>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Python</span>
+          <span style="font-size: 0.8rem;">Python</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">PyTorch</span>
+          <span style="font-size: 0.8rem;">PyTorch</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">TensorFlow</span>
+          <span style="font-size: 0.8rem;">TensorFlow</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-learn" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Scikit-learn</span>
+          <span style="font-size: 0.8rem;">Scikit-learn</span>
         </div>
       </div>
     </div>
-    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;">
+    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
       <h3 style="color: #79ff97; margin-bottom: 15px; text-align: center; font-size: 1.4rem;">🖥️ Programming Languages</h3>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Python</span>
+          <span style="font-size: 0.8rem;">Python</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">JavaScript</span>
+          <span style="font-size: 0.8rem;">JavaScript</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">TypeScript</span>
+          <span style="font-size: 0.8rem;">TypeScript</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Java</span>
+          <span style="font-size: 0.8rem;">Java</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">HTML</span>
+          <span style="font-size: 0.8rem;">HTML</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">CSS</span>
+          <span style="font-size: 0.8rem;">CSS</span>
         </div>
       </div>
     </div>
-    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;">
+    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
       <h3 style="color: #79ff97; margin-bottom: 15px; text-align: center; font-size: 1.4rem;">🧰 Backend & Frameworks</h3>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Node.js</span>
+          <span style="font-size: 0.8rem;">Node.js</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Nest.js</span>
+          <span style="font-size: 0.8rem;">Nest.js</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">FastAPI</span>
+          <span style="font-size: 0.8rem;">FastAPI</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=flask" alt="Flask" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Flask</span>
+          <span style="font-size: 0.8rem;">Flask</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Django</span>
+          <span style="font-size: 0.8rem;">Django</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Express.js</span>
+          <span style="font-size: 0.8rem;">Express.js</span>
         </div>
       </div>
     </div>
-    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;">
+    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
       <h3 style="color: #79ff97; margin-bottom: 15px; text-align: center; font-size: 1.4rem;">🗄️ Databases & Tools</h3>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">MySQL</span>
+          <span style="font-size: 0.8rem;">MySQL</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">PostgreSQL</span>
+          <span style="font-size: 0.8rem;">PostgreSQL</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">SQLite</span>
+          <span style="font-size: 0.8rem;">SQLite</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">MongoDB</span>
+          <span style="font-size: 0.8rem;">MongoDB</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Git</span>
+          <span style="font-size: 0.8rem;">Git</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Docker</span>
+          <span style="font-size: 0.8rem;">Docker</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">AWS</span>
+          <span style="font-size: 0.8rem;">AWS</span>
         </div>
       </div>
     </div>
-    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;">
+    <div style="background: #2e3440; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
       <h3 style="color: #79ff97; margin-bottom: 15px; text-align: center; font-size: 1.4rem;">🌐 Frontend Development</h3>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">React</span>
+          <span style="font-size: 0.8rem;">React</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=vite" alt="Vite" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Vite</span>
+          <span style="font-size: 0.8rem;">Vite</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=angular" alt="Angular" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Angular</span>
+          <span style="font-size: 0.8rem;">Angular</span>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 60px;">
           <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-          <span style="font-size: 0.8rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Bootstrap</span>
+          <span style="font-size: 0.8rem;">Bootstrap</span>
         </div>
       </div>
     </div>
   </div>
-  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center; position: relative;">
+  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center;">
     🌐 Connect with Me
-    <div style="display: block; width: 100px; height: 3px; background: #81a1c0; margin: 10px auto; border-radius: 2px;"></div>
   </div>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
     <a
       href="https://www.linkedin.com/in/willy-samuel-paz-colque-701007230/"
       target="_blank"
-      style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #2e3440; border-radius: 25px; text-decoration: none; color: #d5dbe6; font-weight: bold; transition: all 0.3s ease; border: 1px solid #4c566a;"
+      style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #2e3440; border-radius: 25px; text-decoration: none; color: #d5dbe6; font-weight: bold; border: 1px solid #4c566a;"
     >
       <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -221,7 +217,7 @@
     <a
       href="https://github.com/willypaz243"
       target="_blank"
-      style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #2e3440; border-radius: 25px; text-decoration: none; color: #d5dbe6; font-weight: bold; transition: all 0.3s ease; border: 1px solid #4c566a;"
+      style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #2e3440; border-radius: 25px; text-decoration: none; color: #d5dbe6; font-weight: bold; border: 1px solid #4c566a;"
     >
       <img
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
@@ -232,7 +228,7 @@
     <a
       href="mailto:willypazcolque@gmail.com"
       target="_blank"
-      style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #2e3440; border-radius: 25px; text-decoration: none; color: #d5dbe6; font-weight: bold; transition: all 0.3s ease; border: 1px solid #4c566a;"
+      style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #2e3440; border-radius: 25px; text-decoration: none; color: #d5dbe6; font-weight: bold; border: 1px solid #4c566a;"
     >
       <img
         src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -241,9 +237,8 @@
       Email
     </a>
   </div>
-  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center; position: relative;">
+  <div style="font-size: 1.8rem; margin: 30px 0 20px 0; color: #79ff97; text-align: center;">
     🚀 Let's Build the Future Together!
-    <div style="display: block; width: 100px; height: 3px; background: #81a1c0; margin: 10px auto; border-radius: 2px;"></div>
   </div>
   <div style="text-align: center; padding: 20px; font-size: 1.1rem; line-height: 1.8;">
     <p>

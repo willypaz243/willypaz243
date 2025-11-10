@@ -29,8 +29,9 @@ Got an idea you’d like to bring to life? I’m always open to collaborating on
 ---
 
 ### 🧰 Technical Skills
-|  | |
-|-|-|
+
+|||
+| :--- | ---: |
 | 🤖 AI & ML<br/>![AI & ML](https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn) | 💻 Languages<br/>![Languages](https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css) |
 | 🧩 Backend & Frameworks<br/>![Backend & Frameworks](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react) | 🗄️ Databases & Tools<br/>![Databases & Tools](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gitlab,github,terraform) |
 | 🎨 Frontend<br/>![Frontend](https://skillicons.dev/icons?i=react,bootstrap) | 🧰 Tools & Platforms<br/>![Tools & Platforms](https://skillicons.dev/icons?i=linux,docker,kubernetes,gitlab,github,terraform,aws) |

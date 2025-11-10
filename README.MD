@@ -2,7 +2,6 @@
 
 🧠 AI Engineer | 🚀 Full-Stack Developer
 
----
 
 ## 🎯 About Me
 
@@ -18,7 +17,6 @@ When I’m not coding, you’ll find me scouting new technologies, keeping up wi
 
 Got an idea you’d like to bring to life? I’m always open to collaborating on new projects. Let me know how I can help!
 
----
 
 ### 📊 GitHub Statistics
 
@@ -26,7 +24,6 @@ Got an idea you’d like to bring to life? I’m always open to collaborating on
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willypaz243&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440&cache_seconds=86400) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willypaz243&show_icons=true&hide=contribs&cache_seconds=86400&theme=nord) |
 
----
 
 ### 🧰 Technical Skills
 <table>
@@ -76,7 +73,6 @@ Got an idea you’d like to bring to life? I’m always open to collaborating on
   </a>
 </p>
 
----
 
 ### 🚀 Let's Build the Future Together!
 
@@ -87,7 +83,6 @@ Got an idea you’d like to bring to life? I’m always open to collaborating on
   <strong>Let’s create something amazing together!</strong>
 </p>
 
----
 
 <p>
   ❤️ Created with passion for technology and AI.

@@ -2,21 +2,21 @@
 
 🧠 AI Engineer | 🚀 Full-Stack Developer
 
+[🌐 Visit my Portfolio: www.willypaz.dev](http://www.willypaz.dev)
 
 ## 🎯 About Me
 
 I am a **Full‑Stack & AI Engineer** who focuses on building **web services and LLM‑based solutions**—chatbots, virtual assistants, and agents—designed for high performance and scalability.
 
-My journey into programming started with the _World Editor_ of Warcraft III. That first taste of what a computer could do sparked an obsession that has driven me ever since. I love studying software, experimenting, solving complex problems, and watching my creations work—especially when they make someone’s life easier.
+My journey into programming started with the _World Editor_ of Warcraft III. That first taste of what a computer could do sparked an obsession that has driven me ever since. I love studying software, experimenting, solving complex problems, and watching my creations work—especially when they make someone's life easier.
 
-Quality and efficiency are at the core of my approach. I prioritize clean code, solid best‑practice habits, and thorough testing. I’m comfortable not only writing code but also designing system architectures and deploying applications to production.
+Quality and efficiency are at the core of my approach. I prioritize clean code, solid best‑practice habits, and thorough testing. I'm comfortable not only writing code but also designing system architectures and deploying applications to production.
 
-Currently I’m deepening my expertise in **artificial intelligence, software architecture, and micro‑services**, while exploring the DevOps world with Docker, Kubernetes, and Linux system administration.
+Currently I'm deepening my expertise in **artificial intelligence, software architecture, and micro‑services**, while exploring the DevOps world with Docker, Kubernetes, and Linux system administration.
 
-When I’m not coding, you’ll find me scouting new technologies, keeping up with industry news, or simply relaxing with a series, hanging out with friends, or enjoying a quiet day—because not everything has to be tech‑focused.
+When I'm not coding, you'll find me scouting new technologies, keeping up with industry news, or simply relaxing with a series, hanging out with friends, or enjoying a quiet day—because not everything has to be tech‑focused.
 
-Got an idea you’d like to bring to life? I’m always open to collaborating on new projects. Let me know how I can help!
-
+Got an idea you'd like to bring to life? I'm always open to collaborating on new projects. Let me know how I can help!
 
 ### 📊 GitHub Statistics
 
@@ -24,8 +24,8 @@ Got an idea you’d like to bring to life? I’m always open to collaborating on
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willypaz243&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440&cache_seconds=86400) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=willypaz243&show_icons=true&hide=contribs&cache_seconds=86400&theme=nord) |
 
-
 ### 🧰 Technical Skills
+
 <table>
   <tr>
     <td align="center" valign="middle">
@@ -73,16 +73,14 @@ Got an idea you’d like to bring to life? I’m always open to collaborating on
   </a>
 </p>
 
-
 ### 🚀 Let's Build the Future Together!
 
 <p>
-  I’m always excited to collaborate on innovative projects  
+  I'm always excited to collaborate on innovative projects
   that push the boundaries of technology and AI.  
   <br/>
-  <strong>Let’s create something amazing together!</strong>
+  <strong>Let's create something amazing together!</strong>
 </p>
-
 
 <p>
   ❤️ Created with passion for technology and AI.

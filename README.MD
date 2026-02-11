@@ -10,7 +10,6 @@
   [📧 Email](mailto:willypaz243@gmail.com)
   [💼 LinkedIn](https://www.linkedin.com/in/willypaz/)
   [🐙 GitHub](https://github.com/willypaz243)
-  [💬 Telegram](https://t.me/willypaz)
 
   <img src="https://komarev.com/ghpvc/?username=willypaz243&color=81A1C0&style=flat-square" alt="Profile Views">
 </div>
